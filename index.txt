@@ -1,0 +1,19 @@
+View an Image
+Convert it to grayscale
+Blur the Image
+Resize the Image(with height width as well as with percentage)
+Crop the Image(with topX topY as well as with height and with)
+Determine the Dimensions of the image
+Overlay one Image to Another
+Add text to an Image
+
+Addtext 
+BlurImage
+color2gray
+CropImage
+CropImage2
+ImageDimentions
+Imageviewer
+OverlayImage
+ResizeImage
+ResizeImagePercent
