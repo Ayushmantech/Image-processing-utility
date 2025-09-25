@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
 {
 if(argc!=5)
 {
-cout<<"Usage : [AddText   image_file.jpg/png   Text  x  y]"<<endl;
+cout<<"Usage : [AddText   img_file.jpg/png   Text  x  y]"<<endl;
 return 0;
 }
 Mat  m;
