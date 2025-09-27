@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
 {
 if(argc!=2)
 {
-cout<<"Usage [Imageviewer  file_name.jpg/png]"<<endl;
+cout<<"Usage [Imageviewer  image_name.jpg/png]"<<endl;
 return 0;
 }
 Mat i;
